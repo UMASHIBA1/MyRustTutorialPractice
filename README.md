@@ -1,1 +1,2 @@
 # MyRustTutorialPractice
+PC壊れても見直せるようにGitHubに上げておこう
